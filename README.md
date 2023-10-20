@@ -3,3 +3,5 @@ This project contains notebooks for training classifiers and detectors of bottle
 `capture.ipynb` contains code for capturing & processing images
 
 `classifier.ipynb` contains code for training & testing a classifier model
+
+`detector.ipynb` contains code for training & testing a objection detection model
